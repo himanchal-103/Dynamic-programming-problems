@@ -14,4 +14,5 @@ Dynamic programming is a fundamental concept in algorithm design that is benefic
 
 ## 🧩 Topics Covered
 
-- Fibonacci Series
+- Fibonacci series
+- Minimum cost of climbing stairs
