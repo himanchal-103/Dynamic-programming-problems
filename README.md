@@ -9,10 +9,11 @@ Dynamic programming is a fundamental concept in algorithm design that is benefic
 - Recursive approach
 - Top-down (Recursive + Memoization) approach
 - Bottom-up (Tabulation) approach
-- Optimized versions with reduced space complexity
+- Optimized versions with reduced space complexity (if possible)
 - Clear comments and code organization for better understanding
 
 ## 🧩 Topics Covered
 
 - Fibonacci series
 - Minimum cost of climbing stairs
+- Minimum number of coins
