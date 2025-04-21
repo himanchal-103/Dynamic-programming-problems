@@ -17,3 +17,4 @@ Dynamic programming is a fundamental concept in algorithm design that is benefic
 - Fibonacci series
 - Minimum cost of climbing stairs
 - Minimum number of coins
+- Maximum sum of non-adjacent elements in array or list
