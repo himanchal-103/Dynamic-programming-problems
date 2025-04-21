@@ -35,9 +35,10 @@ def minCoins_memoization(coins, total, memo={}):
         if coin <= total:
             res = minCoins_memoization(coins, total - coin, memo)
             if res != -1:
-                memo[total] = min(min_coins, res + 1)  # store the result
+                min_coins = min(min_coins, res + 1)  # store the result
 
-    return memo[total] if memo[total] != float('inf') else -1
+    memo[total] = min_coins if min_coins != float('inf') else -1
+    return memo[total]
 
 
 # Using Bottom-Up Dynamic Programming (Tabulation)
@@ -65,7 +66,7 @@ You need to find the minimum number of coins required to make the total amount '
 """
 
 if __name__ == '__main__':
-    coins = [1, 2, 5] # Coin denominations
+    coins = [2, 5] # Coin denominations
     total = 11 # Total amount
 
     # Test the recursive function
