@@ -2,7 +2,7 @@
 
 This repository serves as a personal reference and learning resource for mastering DP techniques such as memoization, tabulation, and space optimization.
 
-## 📁 File Structure
+## 📁 File Content
 
 Dynamic programming is a fundamental concept in algorithm design that is beneficial for solving problems with overlapping subproblems and optimizing substructures. This repository contains:
 
@@ -18,3 +18,4 @@ Dynamic programming is a fundamental concept in algorithm design that is benefic
 - Minimum cost of climbing stairs
 - Minimum number of coins
 - Maximum sum of non-adjacent elements in array or list
+- Cut the rod into segment of length x, y, x.
