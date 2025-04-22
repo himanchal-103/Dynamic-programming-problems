@@ -61,9 +61,6 @@ def cutSegment_tabulation(n, x, y, z):
         return dp[n]
 
 
-# Space optimized solution
-
-
 
 """
 Problem Statement: 
@@ -97,6 +94,3 @@ if __name__ == '__main__':
         print("Not possible to cut the rod into segments.\n")
     else:
         print(f"Maximum number of segments are {ans}\n")
-
-
-    # Test the space optimized function
