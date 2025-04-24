@@ -20,3 +20,4 @@ Dynamic programming is a fundamental concept in algorithm design that is benefic
 - Maximum sum of non-adjacent elements in array or list
 - Cut the rod into segment of length x, y, x.
 - Count derangements
+- Painting fence algorithm
