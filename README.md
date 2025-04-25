@@ -21,3 +21,4 @@ Dynamic programming is a fundamental concept in algorithm design that is benefic
 - Cut the rod into segment of length x, y, x.
 - Count derangements
 - Painting fence algorithm
+- Knapsack Problem
