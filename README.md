@@ -26,3 +26,4 @@ Dynamic programming is a fundamental concept in algorithm design that is benefic
 - Perfect square
 - Minimum cost for tickets
 - Largest square area in matrix
+- Minimum score triangulation of polygon
