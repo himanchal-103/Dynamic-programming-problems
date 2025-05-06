@@ -29,3 +29,4 @@ Dynamic programming is a fundamental concept in algorithm design that is benefic
 - Minimum score triangulation of polygon
 - Minimum sideways jumps
 - Reducing dishes
+- Longest increasing subsequence
