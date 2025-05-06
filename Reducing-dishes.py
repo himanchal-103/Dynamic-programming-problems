@@ -50,7 +50,7 @@ def maxSatisfaction_tabulation(satisfaction):
 def maxSatisfaction_space_optimized(satisfaction):
     n = len(satisfaction)
 
-    # Initialize a dp array
+    # Initialize array
     curr = [0] * (n + 1)
     nxt = [0] * (n + 1)
 
