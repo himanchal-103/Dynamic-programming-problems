@@ -30,3 +30,4 @@ Dynamic programming is a fundamental concept in algorithm design that is benefic
 - Minimum sideways jumps
 - Reducing dishes
 - Longest increasing subsequence
+- Maximum height  by stacking cuboids
