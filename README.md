@@ -33,3 +33,4 @@ Dynamic programming is a fundamental concept in algorithm design that is benefic
 - Maximum height  by stacking cuboids
 - Pizza with 3n slices
 - Number of dice rolled with target sum
+- Partition equal subset sums
