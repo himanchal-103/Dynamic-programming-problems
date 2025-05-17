@@ -35,3 +35,4 @@ Dynamic programming is a fundamental concept in algorithm design that is benefic
 - Number of dice rolled with target sum
 - Partition equal subset sums
 - Minimum swaps to make sequence increasing
+- Longest arithmetic sequence
